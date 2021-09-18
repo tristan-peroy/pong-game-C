@@ -1,1 +1,2 @@
-# pong-game-C
+# pong-game-C++
+Pong name made in the C++ language.
